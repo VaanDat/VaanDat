@@ -1,7 +1,7 @@
 Hi 👋 My name is Pham Van Dat
 =============================
 
-I'm 4th student of University of Information Technology, Ho Chi Minh City National University. My major is Japanese-oriented Information Technology! 
+I'm senior student of University of Information Technology, Ho Chi Minh City National University. My major is Japanese-oriented Information Technology! 
 <b>私はホーチミン市国立情報技術大学の4年生です。専攻は日本に特化した情報技術です！</b>
 
 * 🌍  I'm based in Viet Nam
