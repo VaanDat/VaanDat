@@ -53,13 +53,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 </div>
 
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bawpsgithub&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bawpsgithub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Bawpsgithub/Bawpsgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="http://www.github.com/VaanDat"><img src="https://github-readme-stats.vercel.app/api?username=VaanDat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0f172a&bg_color=ffffff&hide_border=true&show_icons=true" alt="VaanDat's GitHub stats" /></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
