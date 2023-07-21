@@ -15,12 +15,6 @@
 </h1>
 </div>
 
-
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47kjsfxyphm98lsbcl23ff30z5t8nfyrhrvj69ld1j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
-</div>
-
 ### 👨‍💻: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 - :telescope: I'm senior student of University of Information Technology, Ho Chi Minh City National University. My major is Japanese-oriented Information Technology! 
