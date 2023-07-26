@@ -11,7 +11,7 @@
       </a>
   </div>
 <h1>
-  Hi Everybody! I'm Dato!
+  Hi! I'm Dato!
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
