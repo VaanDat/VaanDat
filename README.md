@@ -17,7 +17,7 @@
 </div>
 
 ### 👨‍💻: About Me :
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 - :telescope: I'm senior student of University of Information Technology, Ho Chi Minh City National University. My major is Japanese-oriented Information Technology! 
 
 - :seedling: 私はホーチミン市国立情報技術大学の4年生です。専攻は日本に特化した情報技術です！
